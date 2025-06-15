@@ -29,6 +29,6 @@ public class ListaEnlazada {
             System.out.print(it.valor + "--->" + it.nombre + "-->");
             it = it.siguiente;
         }
-        
+        System.out.println("null");
     }
 }
